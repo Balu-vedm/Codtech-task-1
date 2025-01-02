@@ -3,7 +3,7 @@ Company: CODTECH IT SOLUTIONS
 ID:CT08FCD
 Domin:Java programming 
 Duration: December to January 2025
-Mentor:SRAVANI GOUNI
+Mentor:Neela santhosh kumar 
 
 
 
